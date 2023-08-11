@@ -7,16 +7,21 @@ Below are other projects from this course.
 https://github.com/MuhammadUsman15/Body-Mass-Index
 
 # Group Chat: 
+
 https://github.com/MuhammadUsman15/GroupChat-App
 
 # Quizzler App: 
+
 https://github.com/MuhammadUsman15/Quiz-App
 
 # Destiny App: 
+
 https://github.com/MuhammadUsman15/Destiny-App
 
 # Dice App: 
+
 https://github.com/MuhammadUsman15/Dice-App
 
 # Xelophone App: 
+
 https://github.com/MuhammadUsman15/Xelophone-App
