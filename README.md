@@ -3,7 +3,8 @@
 This is a project from Udemy Flutter Course by Angela Yu.
 Below are other projects from this course.
 
-# BMI App: https://github.com/MuhammadUsman15/Body-Mass-Index
+# BMI App: 
+https://github.com/MuhammadUsman15/Body-Mass-Index
 
 # Group Chat: https://github.com/MuhammadUsman15/GroupChat-App
 
